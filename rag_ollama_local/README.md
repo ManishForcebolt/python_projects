@@ -1,10 +1,8 @@
-# SuperEasy 100% Local RAG with Ollama
+# 100% Local RAG with Ollama
 
 ### YouTube Tutorial
 https://www.youtube.com/watch?v=Oe-7dGDyzPM
 
-### YouTube Updated Features
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vFGng_3hDRk/0.jpg)](https://www.youtube.com/watch?v=vFGng_3hDRk)
 
 ### Setup
 1. git clone https://github.com/AllAboutAI-YT/easy-local-rag.git
@@ -26,8 +24,6 @@ https://www.youtube.com/watch?v=Oe-7dGDyzPM
   - python localrag.py --model mistral (llama3 is default) 
 - Talk in a true loop with conversation history (1.1)
    
-### My YouTube Channel
-https://www.youtube.com/c/AllAboutAI
 
 ### What is RAG?
 RAG is a way to enhance the capabilities of LLMs by combining their powerful language understanding with targeted retrieval of relevant information from external sources often with using embeddings in vector databases, leading to more accurate, trustworthy, and versatile AI-powered applications
